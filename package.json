@@ -1,0 +1,14 @@
+{
+  "name": "samplea",
+  "version": "1.0.0",
+  "description": "little user application",
+  "main": "http_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
